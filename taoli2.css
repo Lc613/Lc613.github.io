@@ -1,0 +1,28 @@
+h1{
+  color:red;
+  text-align:center;
+  font-style: italic;
+}
+
+p1{
+  color:red;
+  letter-spacing: 10px;
+  font-weight: lighter;
+  font-size:30px
+}
+
+a{
+  margin: -18px;
+  text-decoration:none;
+  background-color:black;
+  color:red;
+  font-weight: lighter;
+  font-size:30px
+}
+
+.text-box {
+width: 1500px;
+height: 700px;
+padding: 10px;
+border: 2px solid red;
+}
