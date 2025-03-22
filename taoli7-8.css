@@ -1,0 +1,31 @@
+.grid{
+   margin: auto;
+   display:flex;
+   flex-wrap:wrap;
+   width:900px;
+   height:450px;
+   border-left:1px solid red;
+   border-top:1px solid red;
+}
+
+.grid-item{
+    width:5%;
+    height:10%;
+    box-sizing:border-box;
+    border-right:1px solid red;
+    border-bottom:1px solid red;
+
+    color:black;
+    text-align:center;
+    font-size:25px
+}
+
+.grid-item:hover {
+       background-color:white;
+   }
+
+h1{
+  color:red;
+  text-align:center;
+  font-style: italic;
+}

@@ -1,0 +1,27 @@
+.grid{
+   margin: auto;
+   display:flex;
+   flex-wrap:wrap;
+   width:450px;
+   height:450px;
+   border-left:1px solid blue;
+   border-top:1px solid blue;
+}
+
+.grid-item{
+    width:10%;
+    height:10%;
+    box-sizing:border-box;
+    border-right:1px solid blue;
+    border-bottom:1px solid blue;
+
+    color:blue;
+    text-align:center;
+    font-size:25px
+}
+
+h1{
+  color:blue;
+  text-align:center;
+  font-style: italic;
+}
