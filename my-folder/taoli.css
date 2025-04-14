@@ -1,0 +1,18 @@
+
+  h1{
+    color:red;
+    text-align:center;
+    font-style: italic;
+  }
+
+  #demo{
+    width:200px;
+    height:60px;
+    position:absolute;
+    text-align:center;
+    left:43%;
+    border:2px solid red;
+    background-color:black;
+    color:red;
+    font-size:30px
+  }
